@@ -1,1 +1,1 @@
-<h1 align="center" color="Red">Hi,I am Aditya Yadav</h1>
+<h1 align="center" text-color="Red">Hi,I am Aditya Yadav</h1>
